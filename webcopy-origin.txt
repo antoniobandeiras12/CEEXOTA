@@ -1,0 +1,396 @@
+Uri: https://direitos-reservados.me/
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\index.htm
+Content Type: text/html
+
+Uri: https://direitos-reservados.me/css/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/frontend-lite.min_1.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\frontend-lite.min_1.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/global.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\global.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/post-13.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\post-13.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/post-201.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\post-201.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/post-273.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\post-273.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/style.min.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\style.min.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/style.min_1.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\style.min_1.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/theme.min.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\theme.min.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://direitos-reservados.me/fonts/serasa.svg
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\fonts\serasa.svg
+Content Type: image/svg+xml
+
+Uri: https://direitos-reservados.me/images/algar%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\algar@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/ativos%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\ativos@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/avon%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\avon@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/banco-original%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\banco-original@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/bb%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\bb@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/bmg%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\bmg@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/boticario%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\boticario@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/bradesco%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\bradesco@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/btg%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\btg@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/bv%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\bv@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/carrefour%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\carrefour@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/cbss%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\cbss@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/cea-pay%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\cea-pay@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/claro-net%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\claro-net@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/crediativos%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\crediativos@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/credsystem%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\credsystem@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/crefisa%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\crefisa@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/dmcard%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\dmcard@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/dscard%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\dscard@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/havan%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\havan@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/hoepers%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\hoepers@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/imageespecial.webp
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\imageespecial.webp
+Content Type: image/webp
+
+Uri: https://direitos-reservados.me/images/inter%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\inter@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/ipanema%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\ipanema@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/itapeva%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\itapeva@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/itau%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\itau@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/LOGO-TOPO-SERASA.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\LOGO-TOPO-SERASA.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/losango%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\losango@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/neon%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\neon@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/nextel%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\nextel@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/nubank%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\nubank@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/oi%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\oi@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/pan%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\pan@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/pernambucanas%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\pernambucanas@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/porto-seguro%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\porto-seguro@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/recovery%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\recovery@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/renner%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\renner@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/riachuelo%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\riachuelo@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/safra%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\safra@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/santander%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\santander@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/senff%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\senff@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/sky%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\sky@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/tim%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\tim@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/tribanco%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\tribanco@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/vivo%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\vivo@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/willbank-pag%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\willbank-pag@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/images/zema%401x.png
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\images\zema@1x.png
+Content Type: image/png
+
+Uri: https://direitos-reservados.me/js/core.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\core.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/elements-handlers.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/frontend.min_1.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\frontend.min_1.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/hello-frontend.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/hooks.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/i18n.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/regenerator-runtime.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/webpack-pro.runtime.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/webpack.runtime.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/wp-polyfill-inert.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/js/wp-polyfill.min.js
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\js\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://direitos-reservados.me/pag2d.html
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\pag2d.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\direitos-reservados.me\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
